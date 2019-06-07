@@ -10,6 +10,7 @@ ConsumerRole:    0x6ea95173e473e5fa1f954d4e0f913ee1baba3ab2
 
 SupplyChain:     0x6abf31b39230febc41b17a4809a562befc97ce32
 
+
 Truffle v4.1.12 (core: 4.1.12)
 
 Solidity v0.4.24 (solc-js)
